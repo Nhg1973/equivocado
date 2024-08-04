@@ -1,5 +1,5 @@
-API_KEY =""
-API_SECRET =""
+API_KEY ="XolZH0sgMhMFb5sm7TtTglDwu3TgsrLLW0YSrxLGRd7CnetwGsaP3kMuhnTKeFeV"
+API_SECRET ="EijlyRietMq5wy2srxevwGbg4R3Jnjtorr3RPYNPkzzMbv4hYGnJwzO1gNxjxEee"
 
 # Pares de criptomonedas a monitorear
 PAIRS = ['BOME/USDT']

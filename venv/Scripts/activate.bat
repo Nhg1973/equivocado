@@ -8,7 +8,7 @@ if defined _OLD_CODEPAGE (
     "%SystemRoot%\System32\chcp.com" 65001 > nul
 )
 
-set VIRTUAL_ENV=C:\Users\nhg\Desktop\python\django\binance\venv
+set VIRTUAL_ENV=C:\Users\nahue\OneDrive\Desktop\equivocado\venv
 
 if not defined PROMPT set PROMPT=$P$G
 
